@@ -1,0 +1,145 @@
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018_22.05.2018\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+E:\SRH_HOCHSCHULE_HEIDELBERG_MS_ACS\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CopyComplete
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\D072651\Desktop\ACS_2018\Final_Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CopyComplete
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018_25.05.2018_20PM\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CopyComplete
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final_Project - DataGrid\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project\EasyFileDiscoverer\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CopyComplete
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe.config
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\EasyFileDiscoverer.pdb
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csprojAssemblyReference.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\App.g.cs
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer_MarkupCompile.lref
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\MainWindow.baml
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.g.resources
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.Properties.Resources.resources
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.GenerateResource.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CoreCompileInputs.cache
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.csproj.CopyComplete
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.exe
+C:\Users\D072651\Desktop\ACS_2018\Final Project_11010399\Karan Vichare (11010399)\EasyFileDiscoverer\EasyFileDiscoverer\obj\Debug\EasyFileDiscoverer.pdb
